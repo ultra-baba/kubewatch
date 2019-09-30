@@ -1,3 +1,6 @@
+## CRD Practice
+对应文章：https://engineering.bitnami.com/articles/kubewatch-an-example-of-kubernetes-custom-controller.html
+
 # Kubewatch
 
 [![Build Status](https://travis-ci.org/bitnami-labs/kubewatch.svg?branch=master)](https://travis-ci.org/bitnami-labs/kubewatch) [![Go Report Card](https://goreportcard.com/badge/github.com/bitnami-labs/kubewatch)](https://goreportcard.com/report/github.com/bitnami-labs/kubewatch) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/bitnami-labs/kubewatch/blob/master/LICENSE)
